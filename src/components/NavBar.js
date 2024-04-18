@@ -8,7 +8,7 @@ const CustomNavbar = () => {
   return (
     <Navbar collapseOnSelect expand="lg" className="transparent">
       <Container>
-        <Navbar.Brand className="white_color" href="#home">
+        <Navbar.Brand className="white_color" to="/">
           GeoSpotter
         </Navbar.Brand>
         <Navbar.Toggle
