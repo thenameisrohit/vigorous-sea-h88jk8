@@ -1,0 +1,86 @@
+[
+  {
+    "id": 1,
+    "profileImg": "/images/johndoe.jpg",
+    "name": "John Doe",
+    "email": "johndoe@gmail.com",
+    "phone": "987-456-7890",
+    "address": "123 Main St, City, Country",
+    "location": "Dubai",
+    "interests": ["Reading", "Traveling"],
+    "latitude": 40.7128,
+    "longitude": -74.006
+  },
+  {
+    "id": 2,
+    "profileImg": "/images/marybarra.jpg",
+    "name": "Mary Barra",
+    "email": "marybarra@gmail.com",
+    "phone": "987-654-3210",
+    "address": "456 Elm St, Town, Country",
+    "location": "USA",
+    "interests": ["Hiking", "Photography"],
+    "latitude": 34.0522,
+    "longitude": -118.2437
+  },
+  {
+    "id": 3,
+    "profileImg": "/images/johnwilliam.jpg",
+    "name": "John William",
+    "email": "johnwilliam@gmail.com",
+    "phone": "755-895-5775",
+    "address": "789 Oak St, Village, Country",
+    "location": "Nashik",
+    "interests": ["Cooking", "Painting"],
+    "latitude": 51.5074,
+    "longitude": -0.1278
+  },
+  {
+    "id": 4,
+    "profileImg": "/images/annajohnson.jpg",
+    "name": "Anna Johnson",
+    "email": "annajohnson@gmail.com",
+    "phone": "874-225-5897",
+    "address": "789 Oak St, Village, Country",
+    "location": "Nagpur",
+    "interests": ["Cycling", "Painting"],
+    "latitude": 51.5074,
+    "longitude": -0.1278
+  },
+  {
+    "id": 5,
+    "profileImg": "/images/janesmith.jpg",
+    "name": "Jane Smith",
+    "email": "janesmith@gmail.com",
+    "phone": "888-345-2341",
+    "address": "789 Oak St, Village, Country",
+    "location": "Mumbai",
+    "interests": ["Cooking", "Painting"],
+    "latitude": 19.0760,
+    "longitude": 72.8777
+  },
+  {
+    "id": 6,
+    "profileImg": "/images/alicejohnson.jpg",
+    "name": "Alice Johnson",
+    "email": "alicejohnson@gmail.com",
+    "phone": "765-142-2995",
+    "address": "789 Oak St, Village, Country",
+    "location": "Delhi",
+    "interests": ["Cooking", "Painting"],
+    "latitude": 51.5074,
+    "longitude": -0.1278
+  },
+  {
+    "id": 7,
+    "profileImg": "/images/aadibrewer.jpg",
+    "name": "Aadi Brewer",
+    "email": "aadibrewer@gmail.com",
+    "phone": "865-214-5472",
+    "address": "789 Oak St, Village, Country",
+    "location": "Panjab",
+    "interests": ["Cooking", "Painting"],
+    "latitude": 51.5074,
+    "longitude": -0.1278
+  }
+]
